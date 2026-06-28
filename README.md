@@ -1,4 +1,4 @@
-<img width="372" height="337" alt="Screenshot 2026-06-28 220745" src="https://github.com/user-attachments/assets/667faa0b-faaa-4033-bc1d-c93ddfc1c12a" /># Employee Payroll System
+Employee Payroll System
 
 ## Description
 A Java-based Employee Payroll Management System built using Core Java, JDBC, Maven, and MySQL. The application allows users to manage employee records, perform CRUD operations, generate salary slips, view reports and analytics, and manage employees department-wise.
